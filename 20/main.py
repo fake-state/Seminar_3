@@ -30,4 +30,4 @@ for i in word:
     for j in d:
         if i == j:
             scores += d[j]
-print(scores)
+print(f'Колличество очков : {scores}')
